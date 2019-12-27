@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+    color: #40514E;
+}
+
+img {
+    width: 200px;
+    height: 100px;
+}
+
+h1 {
+    font-size: 5.625rem;
+   margin: 10px auto 0 auto;
+   font-family: 'Sacramento', cursive;
+   color: #66bfbf;
+   
+}
+
+h2 {
+    
+    font-family: 'Montserrat','Sacramento', cursive;
+    font-size: 1rem;
+    background-color: azure;
+    color: #66bfbf;
+}
+
+h3 {
+    color: #11999e;
+    font-family: 'Montserrat','Sacramento', cursive;
+    font-size: 1rem;
+}
+.intro {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 500px;
+    width: 400px;
+}
+
+.skill {
+    width: 300px;
+    margin-right: 0px;
+    margin-left: 525px;
+    
+}
+.skillDescription {
+     
+     margin: 0 auto 30px auto;
+     width: 30%;
+}
+
+.getInTouch {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 200px;
+}
+
+.middle-container {
+    
+    margin: 50px 0;
+}
+
+.bottom-container {
+    background-color: #40514E;
+    padding: 50px 0 20px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 135px
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 285px;
+    top: 370px
+}
+
+.mountain {
+    width: 800px;
+    height: 400px;
+}
+
+.paragraph {
+    margin: 0 0 auto 0;
+}
+
+.coddingSkill {
+    width: 10%;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    
+}
+
+.contactMessage {
+    width: 35%;
+    margin: 40px auto 60px;
+}
+
+a {
+    color: #11999e;
+    font-family: 'Montserrat','Sacramento', cursive;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.myButton {
+	background-color: #40514E;
+	border-radius:8px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:10px 20px;
+	text-decoration:none;
+	text-shadow:1px 0px 2px #283966;
+}
+.myButton:hover {
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
